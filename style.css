@@ -1,0 +1,28 @@
+body{
+font-family: 'Cherry Swash', cursive;
+background-color: bisque;
+}
+.header_div p{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(38, 28, 28);
+letter-spacing: 2px;
+}
+.main_div button{
+    font-family: fantasy;
+    color: rgb(38, 28, 28);
+    margin-top: 30px;
+}
+.copy_right_footer{
+position: fixed;
+bottom: 0;
+color: rgb(38, 28, 28);
+width: 50%;
+font-size: 18px;
+background-color: whitesmoke;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px gray;
+margin-left: 325px;
+}
+
+
